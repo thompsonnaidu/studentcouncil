@@ -1,2 +1,0 @@
-# studentcounil.github.io
-webpages
