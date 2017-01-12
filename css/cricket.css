@@ -2,6 +2,10 @@
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
+.notice{
+	margin-top:20px;
+}
+
 .left .teaminfo p{
 	
 	text-align: right;
